@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Long</title>
+    <item>
+      <title>Long summary</title>
+      <link>https://example.com/long</link>
+      <description>&lt;div&gt;Hello &amp;amp; welcome to the match report.&lt;/div&gt;&lt;p&gt;This is the second sentence about &lt;b&gt;Arsenal&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Third sentence is secret.&lt;/p&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
